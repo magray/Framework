@@ -7,3 +7,14 @@ C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspa
 C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar.Hosts\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar.Hosts\obj\Debug\Svt.Caspar.Hosts.dll
 C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar.Hosts\obj\Debug\Svt.Caspar.Hosts.pdb
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar.Hosts\bin\Debug\Svt.Caspar.Hosts.dll
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar.Hosts\bin\Debug\Svt.Caspar.Hosts.pdb
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar.Hosts\bin\Debug\Svt.Caspar.dll
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar.Hosts\bin\Debug\Svt.Network.dll
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar.Hosts\bin\Debug\Svt.Caspar.pdb
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar.Hosts\bin\Debug\Svt.Caspar.dll.config
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar.Hosts\bin\Debug\Svt.Network.pdb
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar.Hosts\obj\Debug\Svt.Caspar.Hosts.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar.Hosts\obj\Debug\Svt.Caspar.Hosts.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar.Hosts\obj\Debug\Svt.Caspar.Hosts.dll
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar.Hosts\obj\Debug\Svt.Caspar.Hosts.pdb

@@ -9,3 +9,14 @@ C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspa
 C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar\obj\Debug\ResGen.write.1.tlog
 C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar\obj\Debug\Svt.Caspar.dll
 C:\Users\Peter\Documents\Projects\SourceForge\CasparCG\framework\trunk\Svt.Caspar\obj\Debug\Svt.Caspar.pdb
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar\bin\Debug\Svt.Caspar.dll.config
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar\bin\Debug\Svt.Caspar.dll
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar\bin\Debug\Svt.Caspar.pdb
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar\bin\Debug\Svt.Network.dll
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar\bin\Debug\Svt.Network.pdb
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar\obj\Debug\Svt.Caspar.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar\obj\Debug\Svt.Caspar.Properties.Resources.resources
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar\obj\Debug\Svt.Caspar.csproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar\obj\Debug\Svt.Caspar.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar\obj\Debug\Svt.Caspar.dll
+C:\Users\Matthew\Documents\GitHub\Framework\csharp\trunk\Svt.Caspar\obj\Debug\Svt.Caspar.pdb
